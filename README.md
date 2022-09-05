@@ -1,0 +1,2 @@
+# ejemplogit
+Iniciazion a git 
